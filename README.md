@@ -2,9 +2,13 @@
 
 [Slides](https://speakerdeck.com/mbcrump/intro-to-swift-for-ios)
 
-[Getting Input](https://github.com/mbcrump/swiftplayground/tree/master/GetInput)
+[Getting Input](https://github.com/mbcrump/COTB2015/tree/master/GetInput)
 
-[Xcode Playground](https://github.com/mbcrump/swiftplayground/tree/master/MySwiftPlayground.playground)
+[Xcode Playground](https://github.com/mbcrump/COTB2015/tree/master/MySwiftPlayground.playground)
+
+[Working with TableViews](https://github.com/mbcrump/COTB2015/tree/master/WorkingWithTableViews)
+
+[iTunes Search API](https://github.com/mbcrump/COTB2015/tree/master/iTunesSearchAPI)
 
 [Tasks App](https://github.com/mbcrump/TasksForSwift)
 
