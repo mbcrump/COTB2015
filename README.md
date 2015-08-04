@@ -1,14 +1,10 @@
 ##Developing iOS Apps with Swift
 
-[Slides](https://speakerdeck.com/mbcrump/intro-to-swift-for-ios)
+[Slides]()
 
 [Getting Input](https://github.com/mbcrump/COTB2015/tree/master/GetInput)
 
 [Xcode Playground](https://github.com/mbcrump/COTB2015/tree/master/MySwiftPlayground.playground)
-
-[Working with TableViews](https://github.com/mbcrump/COTB2015/tree/master/WorkingWithTableViews)
-
-[iTunes Search API](https://github.com/mbcrump/COTB2015/tree/master/iTunesSearchAPI)
 
 [Tasks App](https://github.com/mbcrump/TasksForSwift)
 
