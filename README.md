@@ -1,10 +1,10 @@
 ##Developing iOS Apps with Swift
 
-[Slides]()
-
-[Getting Input](https://github.com/mbcrump/COTB2015/tree/master/GetInput)
+[Slides](https://speakerdeck.com/mbcrump/developing-ios-apps-with-swift)
 
 [Xcode Playground](https://github.com/mbcrump/COTB2015/tree/master/MySwiftPlayground.playground)
+
+[Getting Input](https://github.com/mbcrump/COTB2015/tree/master/GetInput)
 
 [Tasks App](https://github.com/mbcrump/TasksForSwift)
 
